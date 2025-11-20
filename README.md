@@ -10,8 +10,6 @@ I’m a passionate developer and analyst with interests in data science, sports 
 	•	⚙️ Focus Areas: Data Science, Machine Learning, Sports Analytics
 	•	📍 Location: Los Angeles, CA
 
-⸻
-
 ## 🛠️ Tech Stack
 
 Languages:
@@ -31,8 +29,6 @@ Other:
 	•	Model Evaluation
 	•	Data Visualization
 
-⸻
-
 ## 📊 Featured Projects
 
 🏈 Football Performance Analytics
@@ -49,23 +45,6 @@ Designing an AI-powered journaling platform to track cognitive decline in older 
 
 👉 Explore more projects in my repositories below.
 
-⸻
-
-## 📈 GitHub Stats
-
-(Optional: Add GitHub stats using shields or GitHub ReadMe Stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
-
-⸻
-
 ## 🤝 Let’s Connect
 	•	LinkedIn: www.linkedin.com/in/hayden-samala
 	•	Email: hsamala2@ucla.edu
-
-⸻
-
-⸻
-
-⭐ If you like what you see, feel free to follow or star my repositories!
