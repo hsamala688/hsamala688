@@ -1,7 +1,8 @@
 # Hi, I am Hayden Samala 👋
-👋 Hi, I’m Hayden Samala
 
-Welcome to my GitHub profile! This README is a snapshot of who I am, what I work on, and how to connect with me.
+I am a first year Mathematics of Computation & Cognitive Science double major at UCLA.
+
+This is my GitHub where I hope to provide a quick snapshot of what I do, what I am passionate about, and how to reach out and connect with me!
 
 ## 🚀 About Me
 
