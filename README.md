@@ -1,16 +1,73 @@
-## Hi there 👋
+# Hi, I am Hayden Samala 👋
+👋 Hi, I’m Hayden Samala
 
-<!--
-**hsamala688/hsamala688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! This README is a snapshot of who I am, what I work on, and how to connect with me.
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a passionate developer and analyst with interests in data science, sports analytics, and machine learning. I enjoy turning complex data into meaningful insights and building tools that solve real-world problems.
+	•	🎓 Currently: Student / Analyst (customize as needed)
+	•	⚙️ Focus Areas: Data Science, Machine Learning, Sports Analytics
+	•	📍 Location: Los Angeles, CA
+
+⸻
+
+## 🛠️ Tech Stack
+
+Languages:
+	•	Python
+	•	R
+	•	SQL
+	•	JavaScript
+
+Tools & Frameworks:
+	•	Pandas, NumPy, Scikit-learn
+	•	PyTorch / TensorFlow
+	•	Git & GitHub
+	•	Tableau / Matplotlib / Seaborn
+
+Other:
+	•	NLP
+	•	Model Evaluation
+	•	Data Visualization
+
+⸻
+
+## 📊 Featured Projects
+
+🏈 Football Performance Analytics
+
+Analyzed Bo Nix Statistics over the 2024 - 2025 season
+
+📰 Fake News Detection Model
+
+Building an NLP model using RoBERTa to classify and detect misinformation in news content.
+
+🧠 AI Journal App
+
+Designing an AI-powered journaling platform to track cognitive decline in older adults.
+
+👉 Explore more projects in my repositories below.
+
+⸻
+
+## 📈 GitHub Stats
+
+(Optional: Add GitHub stats using shields or GitHub ReadMe Stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+
+⸻
+
+## 🤝 Let’s Connect
+	•	LinkedIn: www.linkedin.com/in/hayden-samala
+	•	Email: hsamala2@ucla.edu
+
+⸻
+
+⸻
+
+⭐ If you like what you see, feel free to follow or star my repositories!
