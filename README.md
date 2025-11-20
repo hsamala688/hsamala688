@@ -3,8 +3,6 @@
 
 Welcome to my GitHub profile! This README is a snapshot of who I am, what I work on, and how to connect with me.
 
-⸻
-
 ## 🚀 About Me
 
 I’m a passionate developer and analyst with interests in data science, sports analytics, and machine learning. I enjoy turning complex data into meaningful insights and building tools that solve real-world problems.
