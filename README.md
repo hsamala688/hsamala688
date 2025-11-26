@@ -36,7 +36,7 @@ Football Performance Analytics
 
 Analyzed Bo Nix Statistics over the 2024 - 2025 season
 
-📰 Fake News Detection Model
+Fake News Detection Model
 
 Building an NLP model using RoBERTa to classify and detect misinformation in news content.
 
