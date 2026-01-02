@@ -1,6 +1,6 @@
 # Hi, I am Hayden Samala 👋
 
-I am a first year Mathematics of Computation & Cognitive Science double major at UCLA.
+I am a first year Statistics & Data Science major at UCLA.
 
 This is my GitHub where I hope to provide a quick snapshot of what I do, what I am passionate about, and how to reach out and connect with me!
 
