@@ -40,9 +40,9 @@ Fake News Detection Model
 
 Building an NLP model using RoBERTa to classify and detect misinformation in news content.
 
-AI Journal App
+NeuroQuest App/Website
 
-Designing an AI-powered journaling platform to track cognitive decline in older adults.
+NeuroQuest is a gamified cognitive-wellness app using clinically backed memory and navigation mini-games to track subtle cognitive changes. Currently have developed n-back test game and working/researching implementation of more features
 
 Explore more projects in my repositories below.
 
