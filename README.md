@@ -36,7 +36,7 @@ Football Performance Analytics:
 - Analyzed Bo Nix Statistics over the 2024 - 2025 season
 
 Fake News Detection Model:
-- Building an NLP model using RoBERTa to classify and detect misinformation in news content.
+- Built an NLP model using RoBERTa to classify and detect misinformation in news content. Additionally built a Logistic Regression Model and compared results to RoBERTaBase Model. 
 
 NeuroQuest App/Website:
 - NeuroQuest is a gamified cognitive-wellness app using clinically backed memory and navigation mini-games to track subtle cognitive changes. Currently have developed n-back test game and working/researching implementation of more features
