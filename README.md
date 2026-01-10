@@ -9,7 +9,7 @@ This is my GitHub where I hope to provide a quick snapshot of what I do, what I 
 I’m a passionate developer and analyst with interests in data science, sports analytics, and machine learning. I enjoy turning complex data into meaningful insights and building tools that solve real-world problems.
 - Currently: Student at UCLA
 - Focus Areas: Data Science, Machine Learning, Sports Analytics
-- Location: Los Angeles, CA
+- Location: Los Angeles, CA/Aurora, CO
 
 ## Tech Stack
 
