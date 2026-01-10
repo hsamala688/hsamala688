@@ -32,17 +32,14 @@ Other:
 
 ## Featured Projects
 
-Football Performance Analytics
+Football Performance Analytics:
+- Analyzed Bo Nix Statistics over the 2024 - 2025 season
 
-Analyzed Bo Nix Statistics over the 2024 - 2025 season
+Fake News Detection Model:
+- Building an NLP model using RoBERTa to classify and detect misinformation in news content.
 
-Fake News Detection Model
-
-Building an NLP model using RoBERTa to classify and detect misinformation in news content.
-
-NeuroQuest App/Website
-
-NeuroQuest is a gamified cognitive-wellness app using clinically backed memory and navigation mini-games to track subtle cognitive changes. Currently have developed n-back test game and working/researching implementation of more features
+NeuroQuest App/Website:
+- NeuroQuest is a gamified cognitive-wellness app using clinically backed memory and navigation mini-games to track subtle cognitive changes. Currently have developed n-back test game and working/researching implementation of more features
 
 Explore more projects in my repositories below.
 
