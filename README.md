@@ -21,9 +21,8 @@ Languages:
 
 Tools & Frameworks:
 	•	Pandas, NumPy, Scikit-learn
-	•	PyTorch / TensorFlow
 	•	Git & GitHub
-	•	Tableau / Matplotlib / Seaborn
+	•	Matplotlib / Seaborn
 
 Other:
 	•	NLP
