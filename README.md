@@ -6,13 +6,13 @@ Feel free to check out my repos and reach out if you are interested in getting i
 
 # Featured Projects
 
-[NeuroQuest N-Back Test](https://github.com/hsamala688/NeuroQuest-N-Back-Test-Development), [NeuroQuest Development](https://github.com/sahilnale/AgeWellBruinsNeuroQuest)
+### [NeuroQuest N-Back Test](https://github.com/hsamala688/NeuroQuest-N-Back-Test-Development), [NeuroQuest Development](https://github.com/sahilnale/AgeWellBruinsNeuroQuest)
 
 Working collaboratively on a team developing a cognitive wellness app to measure decline in geriatric patients. Responsible specifically for developing the N-Back Test feature using React.js, taking well-known cognitive assessment for working memory tests and successfully gamifying it. Now working to migrate project over to Swift for specific IOS app development as well as planned future website creation as well.
 
 Technologies: React.js, JavaScript, HTML, CSS, Swift
 
-[California Wildfire Prediction Models](https://github.com/hsamala688/CaliforniaWildfirePrediction), [Streamlit App](https://github.com/hsamala688/streamlit-wildfire-prediction)
+### [California Wildfire Prediction Models](https://github.com/hsamala688/CaliforniaWildfirePrediction), [Streamlit App](https://github.com/hsamala688/streamlit-wildfire-prediction)
 
 Leading team of 6 in developing random forest classifier models to predict wildfires in California. Developing Streamlit App to house predictions and display predictions.
 
