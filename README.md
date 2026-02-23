@@ -4,7 +4,7 @@ I am a first year pursuing Statistics & Data Science major at the University of 
 
 Feel free to check out my repos and reach out if you are interested in getting in contact with me!
 
-# 💻 Featured Projects
+# Featured Projects 💻 
 
 ### 🔨 [NeuroQuest N-Back Test](https://github.com/hsamala688/NeuroQuest-N-Back-Test-Development), [NeuroQuest Development](https://github.com/sahilnale/AgeWellBruinsNeuroQuest)
 
