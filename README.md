@@ -18,7 +18,7 @@ Leading team of 6 in developing random forest classifier models to predict wildf
 
 Technologes: scikit-learn, numpy, pandas
 
-### [Fake News vs Real News, Natural Language Processing](https://github.com/hsamala688/Fake-News-Analysis)
+### [Fake News vs Real News --> Natural Language Processing](https://github.com/hsamala688/Fake-News-Analysis)
 
 First foray into machine learning and specifically natural language processing. Built collaboratively with fellow first-year UCLA student Kavin Ramesh for our submission for DataRes's fall 2025 Demo Day Challenge. We were one of two teams selected for said Demo Day where we presented our findings and processes in developing such model. We built both a roberta-base natural langauge processing as well as a logistic regression model and tested to see which would perform better in prediciting real news vs fake news. 
 
