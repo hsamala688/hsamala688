@@ -1,6 +1,6 @@
 # Hi, I am Hayden Samala 👋
 
-I am a first year pursuing Statistics & Data Science major at the University of California, Los Angels. Currently I am an aspiring developer and programmer working on honing my skills in app development, natural language processing, sports analytics, and low-level programming. I am always trying to build things whether massive projects or small two-hour boredom staving projects.
+I am a first year pursuing Statistics & Data Science major at the University of California, Los Angels. I am an aspiring developer and programmer working on honing my skills in app development, natural language processing, sports analytics, and low-level programming. I am always trying to build things whether massive projects or small two-hour boredom staving projects.
 
 Feel free to check out my repos and reach out if you are interested in getting in contact with me!
 
