@@ -2,8 +2,6 @@
 
 I am a first year pursuing Mathematics of Computation at the University of California, Los Angels. I am an aspiring developer and programmer working on honing my skills in app development, natural language processing, sports analytics, and low-level programming. I am always trying to build things whether massive projects or small two-hour boredom staving projects.
 
-Feel free to check out my repos and reach out if you are interested in getting in contact with me!
-
 # Featured Projects 💻 
 
 ### 🔨 [NeuroQuest N-Back Test](https://github.com/hsamala688/NeuroQuest-N-Back-Test-Development), [NeuroQuest Development](https://github.com/sahilnale/AgeWellBruinsNeuroQuest) 🔗
@@ -32,4 +30,9 @@ Technologies: Python, Jupyter Notebooks, numpy, pandas, matplotlib, seaborn
 
 ## Let’s Connect
 - [LinkedIn](www.linkedin.com/in/hayden-samala)
+- [GitHub](https://github.com/hsamala688)
 - [Email](mailto:hsamala2@ucla.edu)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Thanks for visitng my GitHub Page. Hopefully you found what I do interesting and feel free to check out my repos and reach out if you are interested in getting in contact with me!
