@@ -32,4 +32,4 @@ Technologies: Python, Jupyter Notebooks, numpy, pandas, matplotlib, seaborn
 
 ## Let’s Connect
 - [LinkedIn](www.linkedin.com/in/hayden-samala)
-- [Email](hsamala2@ucla.edu)
+- [Email](mailto:hsamala2@ucla.edu)
