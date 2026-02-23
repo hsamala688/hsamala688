@@ -31,5 +31,5 @@ This repository was my first real dive into the world of version control and sha
 Technologies: Python, Jupyter Notebooks, numpy, pandas, matplotlib, seaborn
 
 ## Let’s Connect
-	•	LinkedIn: www.linkedin.com/in/hayden-samala
-	•	Email: hsamala2@ucla.edu
+####[LinkedIn](www.linkedin.com/in/hayden-samala)
+####[Email](hsamala2@ucla.edu)
