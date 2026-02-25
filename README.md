@@ -24,7 +24,7 @@ Technologies: NLTK, numpy, pandas, huggingface transformers, torch, scikit-learn
 
 ### [Bo Nix Analysis Project](https://github.com/hsamala688/Bo_Nix_Analysis_Project) 🔗
 
-This repository was my first real dive into the world of version control and sharing of what I developed with the world! Here I mostly focused on generating some solid visuals for overall statistics for Bo Nix's first full pro season. Additionally, I hope to add his 2025-2026 season statistcs as well as heatmaps and other such visuals that I have created to not only track performace year-over-year but to continue to hone my skills in this area of craft.
+This repository was my first real dive into the world of version control and sharing what I developed with the world! Here, I mostly focused on generating some solid visuals for overall statistics for Bo Nix's first full pro season. Additionally, I have added his 2025-2026 season statistcs as well as heatmaps and other such visuals that I have created to not only track performace year-over-year but to continue to hone my skills in this area of craft.
 
 Technologies: Python, Jupyter Notebooks, numpy, pandas, matplotlib, seaborn
 
