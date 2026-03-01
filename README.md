@@ -10,7 +10,7 @@ Working collaboratively on a team developing a cognitive wellness app to measure
 
 Technologies: React.js, JavaScript, HTML, CSS, Swift
 
-### 🔨 [California Wildfire Prediction Models](https://github.com/hsamala688/CaliforniaWildfirePrediction), [CWPM App](https://github.com/hsamala688/streamlit-wildfire-prediction) 🔗
+### 🔨 [California Wildfire Prediction Models](https://github.com/hsamala688/CaliforniaWildfirePrediction), [CWPM App](https://app-wildfire-prediction-gvp5tpcymq2uae4qndccr9.streamlit.app/) 🔗
 
 Leading team of 6 in developing random forest classifier models to predict wildfires in California. Developing Streamlit App to house predictions and display predictions.
 
