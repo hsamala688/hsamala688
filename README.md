@@ -14,7 +14,7 @@ Technologies: React.js, JavaScript, HTML, CSS, Swift
 
 Leading team of 6 in developing random forest classifier models to predict wildfires in California. Developing Streamlit App to house predictions and display predictions.
 
-Technologes: scikit-learn, numpy, pandas
+Technologies: scikit-learn, numpy, pandas, streamlit, joblib, seaborn, matplotlib
 
 ### [Fake News vs Real News (NLP)](https://github.com/hsamala688/Fake-News-Analysis) 🔗
 
