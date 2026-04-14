@@ -24,7 +24,7 @@ Technologies: NLTK, numpy, pandas, huggingface transformers, torch, scikit-learn
 
 ### [NFL Projects](https://github.com/hsamala688/NFL_Projects) 🔗
 
-This project was my first foray into data science, jupyter notebooks, and version control as a whole! As such when creating it was an incredibly flawed and overly complex and convulated mess. Right now, I am committing to a massive facelift for it so check back in soon to see how far I get! I plan on expanding from what I already built, perform some new analysis, and ultimately employ some machine learning techniques that I have picked up since.
+This project initially started with me just evaluating quarterback Bo Nix's performance over the 2024 - 2025 season. It was also my first foray into data science, jupyter notebooks, and version control as a whole! As such when creating it was an incredibly flawed, overly complex, and as a whole a convulated mess. Right now, I am committing to a massive facelift for it so check back in soon to see how far I get! I plan on expanding from what I already built, perform some new analysis, and ultimately employ some machine learning techniques that I have picked up since.
 
 Technologies: Python, Jupyter Notebooks, numpy, pandas, matplotlib, seaborn
 
