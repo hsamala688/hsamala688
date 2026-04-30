@@ -4,6 +4,10 @@ I am a first year pursuing Mathematics of Computation at the University of Calif
 
 # Featured Projects 💻 
 
+### 🔨 [Counterclaim](https://github.com/hsamala688/war-room) 🔗
+
+Working collaboratively on a team developing an automatic health insurance claim appealer.
+
 ### 🔨 [NeuroQuest N-Back Test](https://github.com/hsamala688/NeuroQuest-N-Back-Test-Development) 🔗
 
 Working collaboratively on a team developing a cognitive wellness app to measure decline in geriatric patients. Responsible specifically for developing the N-Back Test feature using React.js, taking well-known cognitive assessment for working memory tests and successfully gamifying it. Now working to migrate project over to Swift for specific iOS app development as well as planned future website creation as well.
