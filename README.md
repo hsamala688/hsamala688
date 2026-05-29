@@ -26,11 +26,10 @@ First foray into machine learning and specifically natural language processing. 
 
 Technologies: NLTK, numpy, pandas, huggingface transformers, torch, scikit-learn
 
-### [NFL Projects](https://github.com/hsamala688/NFL_Projects) 🔗
-
-This project initially started with me just evaluating quarterback Bo Nix's performance over the 2024 - 2025 season. It was also my first foray into data science, jupyter notebooks, and version control as a whole! As such when creating it was an incredibly flawed, overly complex, and as a whole a convulated mess. Right now, I am committing to a massive facelift for it so check back in soon to see how far I get! I plan on expanding from what I already built, perform some new analysis, and ultimately employ some machine learning techniques that I have picked up since.
-
-Technologies: Python, Jupyter Notebooks, numpy, pandas, matplotlib, seaborn
+### [NFL Analytics Pipeline](https://github.com/hsamala688/NFL_Projects) 🔗
+What started as a one-off analysis of Bo Nix's 2024–2025 season has grown into a full production-style data engineering and machine learning project. The pipeline ingests NFL play-by-play data via `nflreadpy`, stores it as Parquet, loads it into DuckDB, runs dbt transformations across three model layers, and orchestrates everything with Prefect on a weekly schedule. On top of that sits a Streamlit dashboard and an XGBoost model that predicts pass completion probability from pre-snap situational features — used to rank every QB by how much they outperform or underperform what their circumstances would predict.
+ 
+Technologies: Python, DuckDB, dbt, Prefect, Streamlit, XGBoost, scikit-learn, Parquet, Plotly
 
 ## Let’s Connect
 - [LinkedIn](https://linkedin.com/in/hayden-samala)
