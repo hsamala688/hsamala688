@@ -2,6 +2,8 @@
 
 I'm a first-year studying Mathematics of Computation at UCLA, building across iOS development, NLP, and data engineering. I am currently working on a cognitive wellness app for geriatric patients, a pipeline that makes insurance appeal denials easier to fight, and a NFL quarterback predictive analysis project.
 
+---
+
 ### 🔨 [Counterclaim](https://github.com/hsamala688/counterclaim) 🔗
 
 Contributing to a multi-agent AI system that automates health insurance denial appeals. Built with 6 FastAPI microservices orchestrated via a Python coordinator, with the Anthropic Claude API generating appeal content across agents tied together by shared Pydantic schema contracts. Also performed a full security audit surfacing PHI exposure in git history, unauthenticated inter-agent endpoints, and rate limiting gaps.
