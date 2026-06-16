@@ -1,6 +1,6 @@
 # Hi, I am Hayden Samala 👋
 
-I'm a first-year studying Mathematics of Computation at UCLA, building across iOS development, NLP, and data engineering. I am currently working on a cognitive wellness app for geriatric patients, a pipeline that makes insurance appeal denials easier to fight, and a NFL quarterback predictive analysis project.
+I'm a current student at UCLA studying Mathematics and Computer Science, building across iOS development, NLP, and data engineering. I am currently working on a cognitive wellness app for geriatric patients, a pipeline that makes insurance appeal denials easier to fight, and a NFL quarterback predictive analysis project.
 
 ---
 
