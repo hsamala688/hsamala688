@@ -4,7 +4,7 @@ I'm a current student at UCLA studying Mathematics and Computer Science, buildin
 
 ---
 
-### 🔨 [Counterclaim](https://github.com/hsamala688/counterclaim) 🔗
+### 🔨 [Counterclaim](https://github.com/hsamala688/war-room) 🔗
 
 Contributing to a multi-agent AI system that automates health insurance denial appeals. Built with 6 FastAPI microservices orchestrated via a Python coordinator, with the Anthropic Claude API generating appeal content across agents tied together by shared Pydantic schema contracts. Also performed a full security audit surfacing PHI exposure in git history, unauthenticated inter-agent endpoints, and rate limiting gaps.
 
