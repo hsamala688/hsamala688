@@ -1,50 +1,60 @@
-# Hi, I am Hayden Samala 👋
+# Hi, I'm Hayden Samala 👋
 
-I'm a current student at UCLA studying Mathematics and Computer Science, building across iOS development, NLP, and data engineering. I am currently working on a cognitive wellness app for geriatric patients, a pipeline that makes insurance appeal denials easier to fight, and a NFL quarterback predictive analysis project.
+I'm a student at UCLA studying Mathematics and Computer Science student, building across data engineering, machine learning, and iOS development. Right now I'm working on a production-style NFL analytics pipeline, a multi-agent system that automates health insurance appeal denials, and an iOS cognitive wellness app for geriatric patients.
+
+---
+
+## What I have built
+
+**Software Engineering Consultant @ Tixr** — Designed an automated feedback pipeline that routes 10K+ Intercom support tickets per day through the Claude API into a structured Supabase and Notion database. A two-stage design classifies most tickets through a deterministic keyword taxonomy and escalates only low-confidence cases to a Claude fallback, keeping token cost down at high volume.
+
+## What I am working on right now
+
+**CTO @ Bound** — Building a long-distance rideshare iOS app in SwiftUI with MVVM, using MapKit and the Google Places API for trip routing and a PostgreSQL/PostGIS model on Supabase for geospatial trip matching. Also built and deployed the marketing site from scratch in vanilla HTML, CSS, and JavaScript.
+
+---
+
+### 🔨 [NFL Analytics Pipeline](https://github.com/hsamala688/NFL_Projects) 🔗
+
+What began as a one-off look at Bo Nix's 2024-2025 season grew into a full production-style data engineering and ML project. The pipeline ingests NFL play-by-play data via `nflreadpy`, stores it as Parquet, loads it into DuckDB, runs dbt transformations across three model layers, and orchestrates the whole thing with Prefect on a weekly schedule. On top sits a Streamlit dashboard and an XGBoost model that predicts pass completion probability from pre-snap features, then ranks every QB by how far they beat or trail that predicted baseline.
+
+**Stack:** Python, DuckDB, dbt, Prefect, XGBoost, scikit-learn, Streamlit, Parquet, Plotly
 
 ---
 
 ### 🔨 [Counterclaim](https://github.com/hsamala688/war-room) 🔗
 
-Contributing to a multi-agent AI system that automates health insurance denial appeals. Built with 6 FastAPI microservices orchestrated via a Python coordinator, with the Anthropic Claude API generating appeal content across agents tied together by shared Pydantic schema contracts. Also performed a full security audit surfacing PHI exposure in git history, unauthenticated inter-agent endpoints, and rate limiting gaps.
+Contributing to a multi-agent AI system that automates health insurance denial appeals. The architecture runs 6 FastAPI microservices coordinated by a Python orchestrator, with the Anthropic Claude API generating appeal content across agents and shared Pydantic schemas holding the contracts together. I also ran a security audit that surfaced PHI in git history, unauthenticated inter-agent endpoints, and missing rate limiting.
 
-Technologies: Python, FastAPI, Anthropic Claude API, Pydantic
-
----
-
-### 🔨 [NeuroQuest N-Back Test Development](https://github.com/hsamala688/NeuroQuest-N-Back-Test-Development) 🔗
-
-Co-founding an iOS cognitive wellness app designed for geriatric deployment. Built in Swift/SwiftUI with MVVM architecture, Firebase Auth for user authentication, and Cloud Firestore for persistent longitudinal data storage. Developing N-Back, Corsi Block, and Grocery Memory (OSPAN-inspired) test modules with adaptive difficulty tracking across sessions.
-
-Technologies: Swift, SwiftUI, Firebase, Cloud Firestore, Xcode
+**Stack:** Python, FastAPI, Anthropic Claude API, Pydantic
 
 ---
 
-### [California Wildfire Prediction Models](https://github.com/hsamala688/CaliforniaWildfirePrediction), [CWPM App](https://app-wildfire-prediction-gvp5tpcymq2uae4qndccr9.streamlit.app/) 🔗
+### 🔨 [NeuroQuest](https://github.com/hsamala688/NeuroQuest-N-Back-Test-Development) 🔗
 
-Led a team of 6 building wildfire prediction models using NASA FIRMS satellite hotspot data, Meteostat weather data, and Cal LANDFIRE fuel/vegetation data. Implemented Random Forest and Linear Regression models in scikit-learn and built a Streamlit dashboard with Seaborn/Matplotlib visualizations to communicate wildfire risk to varied audiences. Joblib handles model serialization and transport to the Streamlit app.
+Co-founding an iOS cognitive wellness app built for geriatric deployment. Written in Swift and SwiftUI with MVVM architecture, Firebase Auth for sign-in, and Cloud Firestore for longitudinal data storage. The test suite covers N-Back, Corsi Block, and a Grocery Memory module inspired by OSPAN, each with adaptive difficulty that tracks across sessions.
 
-Technologies: scikit-learn, numpy, pandas, streamlit, joblib, seaborn, matplotlib
+**Stack:** Swift, SwiftUI, Firebase, Cloud Firestore, Xcode
 
 ---
 
 ### [Fake News vs Real News (NLP)](https://github.com/hsamala688/Fake-News-Analysis) 🔗
 
-Built collaboratively with fellow first-year UCLA student Kavin Ramesh for DataRes's Fall 2025 Demo Day Challenge, and selected as one of two teams to present. Developed both a RoBERTa-base NLP model and a logistic regression model using TF-IDF vectorization to classify news articles as real or fake. The project included a full preprocessing pipeline with NLTK tokenization, stopword removal, and n-gram optimization.
+Built with fellow UCLA student Kavin Ramesh for DataRes Fall 2025 Demo Day, and one of two teams selected to present. We trained a RoBERTa-base model and a TF-IDF logistic regression baseline to classify articles as real or fake. The interesting part was diagnosing suspiciously high accuracy and tracing it to data leakage from Reuters byline tags and subject-column artifacts, then correcting the preprocessing to recover honest benchmarks of 95% (logistic regression) and 99.64% (RoBERTa).
 
-Technologies: NLTK, numpy, pandas, huggingface transformers, scikit-learn
-
----
-
-### [NFL Analytics Pipeline](https://github.com/hsamala688/NFL_Projects) 🔗
-
-What started as a one-off analysis of Bo Nix's 2024-2025 season has grown into a full production-style data engineering and machine learning project. The pipeline ingests NFL play-by-play data via `nflfastpy`, stores it as Parquet, loads it into DuckDB, runs dbt transformations across three model layers, and orchestrates everything with Prefect on a weekly schedule. On top of that sits a Streamlit dashboard and an XGBoost model that predicts pass completion probability from pre-snap situational features, used to rank every QB by how much they outperform or underperform their predicted baseline.
-
-Technologies: Python, DuckDB, dbt, Prefect, Streamlit, XGBoost, scikit-learn, Parquet, Plotly
+**Stack:** NLTK, NumPy, Pandas, HuggingFace Transformers, scikit-learn
 
 ---
 
-## Let's Connect
+### [California Wildfire Risk Prediction](https://github.com/hsamala688/CaliforniaWildfirePrediction) · [Live App](https://app-wildfire-prediction-gvp5tpcymq2uae4qndccr9.streamlit.app/) 🔗
+
+Led a team of 6 building wildfire risk models on NASA FIRMS satellite hotspot data, Meteostat weather records, and Cal LANDFIRE vegetation layers. We unified those sources into one 800K+ row dataset, trained Logistic Regression and Random Forest models, and shipped a Streamlit dashboard with Seaborn and Matplotlib visualizations to communicate risk to technical and non-technical audiences. Joblib handles model serialization for the deployed app.
+
+**Stack:** scikit-learn, NumPy, Pandas, Streamlit, Joblib, Seaborn, Matplotlib
+
+---
+
+## Let's connect
 
 - [LinkedIn](https://linkedin.com/in/hayden-samala)
 - [GitHub](https://github.com/hsamala688)
