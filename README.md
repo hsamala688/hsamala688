@@ -6,7 +6,7 @@ I'm a student at UCLA studying Mathematics and Computer Science student, buildin
 
 ## What I have built
 
-**Software Engineering Consultant @ Tixr** — Designed an automated feedback pipeline that routes 10K+ Intercom support tickets per day through the Claude API into a structured Supabase and Notion database. A two-stage design classifies most tickets through a deterministic keyword taxonomy and escalates only low-confidence cases to a Claude fallback, keeping token cost down at high volume.
+**Software Engineering Intern @ Tixr** — Designed an automated feedback pipeline that routes 10K+ Intercom support tickets per day through the Claude API into a structured Supabase and Notion database. A two-stage design classifies most tickets through a deterministic keyword taxonomy and escalates only low-confidence cases to a Claude fallback, keeping token cost down at high volume.
 
 ---
 
