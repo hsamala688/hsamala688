@@ -12,7 +12,9 @@ I'm a student at UCLA studying Mathematics and Computer Science student, buildin
 
 ## What I am working on right now
 
-**CTO @ Bound** — Building a long-distance rideshare iOS app in SwiftUI with MVVM, using MapKit and the Google Places API for trip routing and a PostgreSQL/PostGIS model on Supabase for geospatial trip matching. Also built and deployed the marketing site from scratch in vanilla HTML, CSS, and JavaScript.
+**CTO @ Bound** — Building a long-distance rideshare iOS app in SwiftUI with MVVM, using MapKit and the Google Places API for trip routing and a PostgreSQL/PostGIS model on Supabase for geospatial trip matching. Also built and deployed the marketing site from scratch using Astro.js, Typescript, and Supabase (PostgreSQL).
+
+**[Bound WaitList Website](https://www.boundrideshare.com/)**
 
 
 ### 🔨 [NFL Analytics Pipeline](https://github.com/hsamala688/NFL_Projects) 🔗
